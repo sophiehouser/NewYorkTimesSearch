@@ -44,7 +44,7 @@ trouble loading articles.
 
 Since I can't run my app I won't be able to post a licecap video. 
 
-I also know that the date picker passes incorrectly translates the month the user selects. So if the user selects June then the
+I also know that the date picker incorrectly translates the month the user selects. So if the user selects June then the
 date picker will show and save that as month 05 rather than 06. I would fix this by adding 1 to the myMonth variable. 
 
 ## Open-source libraries used
